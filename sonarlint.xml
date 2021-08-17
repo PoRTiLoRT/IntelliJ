@@ -1,0 +1,18 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.braingroup.ch" />
+          <token>df99dfc9df9adf92df9bdf9edfcbdf9bdfccdf92df92df98df99df9ddfc9df9adfcfdf9cdf9fdf98dfc8df9cdf93dfc8df9ddf99dfcedfccdf92df99df93dfcedf92dfcbdf9bdf99dfcfdf9edf92dfcc</token>
+          <option name="name" value="sonarqube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S1488" />
+    </rules>
+  </component>
+</application>

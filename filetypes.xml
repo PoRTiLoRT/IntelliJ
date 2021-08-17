@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="2217933997589b29ac9390edfb2ab10afda71538" type="AUTO_DETECTED" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
