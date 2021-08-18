@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.braingroup.ch" />
+          <token>df9adf98df9adfc8df9bdf9edf9edfc9dfc9dfcfdf9fdf9edf92dfc9df9edf9adfcfdf9ddf9fdf98df9edfcfdf9fdf92df9ddf9adf9edf98df9ddf92dfcfdfcfdf93df9ddfcedf99df98df9cdf9edf98</token>
+          <option name="name" value="sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

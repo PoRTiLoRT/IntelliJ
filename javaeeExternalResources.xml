@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/40fa6519_configuration_1_3.dtd" />
+    <resource url="http://databene.org/benerator/0.7.4" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/451662f8_benerator-0.7.4.xsd" />
+    <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/5a3ee903_log4j.dtd" />
+    <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/48b8f268_assembly-1.1.2.xsd" />
+    <resource url="http://schema.braingroup.ch/translate/translation-v1.0.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/5a3da9f9_translation-v1.0.0.0.xsd" />
+    <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/1524e8b2_configuration_1_3.dtd" />
+  </component>
+</application>
