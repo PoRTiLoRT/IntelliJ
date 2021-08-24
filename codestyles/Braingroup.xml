@@ -34,6 +34,7 @@
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
   <JavaCodeStyleSettings>
+    <option name="SPACE_AFTER_CLOSING_ANGLE_BRACKET_IN_TYPE_ARGUMENT" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -52,6 +53,14 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="JD_KEEP_INVALID_TAGS" value="false" />
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+    <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
+    <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
+    <option name="JD_KEEP_EMPTY_RETURN" value="false" />
+    <option name="JD_INDENT_ON_CONTINUATION" value="true" />
   </JavaCodeStyleSettings>
   <LessCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
@@ -105,7 +114,6 @@
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
@@ -117,12 +125,25 @@
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
-    <option name="METHOD_ANNOTATION_WRAP" value="1" />
-    <option name="CLASS_ANNOTATION_WRAP" value="1" />
-    <option name="FIELD_ANNOTATION_WRAP" value="1" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="WRAP_COMMENTS" value="true" />
+    <option name="ASSERT_STATEMENT_WRAP" value="1" />
+    <option name="ASSERT_STATEMENT_COLON_ON_NEXT_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
-    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
+    <option name="ENUM_CONSTANTS_WRAP" value="1" />
+    <option name="KEEP_BUILDER_METHODS_INDENTS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
