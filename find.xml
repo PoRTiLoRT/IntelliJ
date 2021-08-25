@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '… [target-enterprise]'" />
-    <option name="defaultScopeName" value="Directory '… [target-enterprise]'" />
-    <option name="SEARCH_SCOPE" value="Directory '… [target-enterprise]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*ts, *html</mask>
     <mask>*less</mask>
   </component>
