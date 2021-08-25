@@ -54,9 +54,13 @@
           <option name="url" value="https://codeplace.braingroup.ch/scm/enterprise/tegui-canb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeplace.braingroup.ch/scm/enterprise/teprint-bkb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\workspace\target-enterprise-gui-canb" />
+    <option name="cloneParentDir" value="D:\dev\workspace\target-enterprise-print-canb" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
