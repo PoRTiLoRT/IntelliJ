@@ -62,9 +62,17 @@
           <option name="url" value="https://codeplace.braingroup.ch/scm/enterprise/teprint-canb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeplace.braingroup.ch/scm/enterprise/teprint-gkb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeplace.braingroup.ch/scm/enterprise/teprint-sls.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\workspace\target-enterprise-print-canb" />
+    <option name="cloneParentDir" value="D:\dev\workspace\target-enterprise-print-sls" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
