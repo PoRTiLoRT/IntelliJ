@@ -50,9 +50,13 @@
           <option name="url" value="http://codeplace.braingroup.ch" />
           <option name="userName" value="jase" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeplace.braingroup.ch/scm/enterprise/tegui-canb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\workspace\OMSelfCalculator-java" />
+    <option name="cloneParentDir" value="D:\dev\workspace\target-enterprise-gui-canb" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
