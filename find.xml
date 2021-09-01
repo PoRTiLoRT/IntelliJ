@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="remove public in test" />
-    <option name="defaultScopeName" value="remove public in test" />
-    <option name="SEARCH_SCOPE" value="remove public in test" />
+    <option name="customScope" value="Directory '…\tax-kernel-tax\src\main\java\mk\com\netcetera\kernel\core\calculation\ika [tax-kernel-tax]'" />
+    <option name="defaultScopeName" value="Directory '…\tax-kernel-tax\src\main\java\mk\com\netcetera\kernel\core\calculation\ika [tax-kernel-tax]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\tax-kernel-tax\src\main\java\mk\com\netcetera\kernel\core\calculation\ika [tax-kernel-tax]'" />
     <mask>*less</mask>
     <mask>*ts, *html</mask>
   </component>
