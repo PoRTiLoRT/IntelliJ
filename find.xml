@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ts, *html" />
+    <option name="customScope" value="remove public in test" />
+    <option name="defaultScopeName" value="remove public in test" />
+    <option name="SEARCH_SCOPE" value="remove public in test" />
     <mask>*less</mask>
     <mask>*ts, *html</mask>
   </component>
