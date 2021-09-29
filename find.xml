@@ -3,12 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ts, *html, *java" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*less</mask>
     <mask>*java</mask>
     <mask>*xsd</mask>
     <mask>*html</mask>
     <mask>*ts, *html</mask>
     <mask>*ts, *html, *java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
