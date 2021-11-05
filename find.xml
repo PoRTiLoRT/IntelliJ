@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\target-enterprise-lifesimulation [target-enterprise-lifesimulation]'" />
-    <option name="defaultScopeName" value="Directory '…\target-enterprise-lifesimulation [target-enterprise-lifesimulation]'" />
-    <option name="SEARCH_SCOPE" value="Directory '…\target-enterprise-lifesimulation [target-enterprise-lifesimulation]'" />
+    <option name="customScope" value="Directory '…\target-enterprise-model\src\main\java\ch\braingroup\enterprise\model\calculator\lifesimulation [target-enterprise-model]'" />
+    <option name="defaultScopeName" value="Directory '…\target-enterprise-model\src\main\java\ch\braingroup\enterprise\model\calculator\lifesimulation [target-enterprise-model]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\target-enterprise-model\src\main\java\ch\braingroup\enterprise\model\calculator\lifesimulation [target-enterprise-model]'" />
     <mask>*less</mask>
     <mask>*xsd</mask>
     <mask>*html</mask>
